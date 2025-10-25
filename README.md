@@ -8,19 +8,15 @@ Bạn có bao giờ cảm thấy việc phân loại rác tại nhà thật rắ
 
 ## 📸 Hình ảnh sản phẩm
 
-Hãy cùng xem qua một vài hình ảnh về sản phẩm của chúng tôi:
-
-
 *   **Sơ đồ mạch:**
-    ![Ảnh sản phẩm 2]([./schematic/schematic.png])
-    _Mô tả ngắn về ảnh 2 (ví dụ: Các cảm biến và động cơ bên trong)_
+    ![Sơ đồ mạch](./schematic/schematic.png)
+    _Sơ đồ mạch nguyên lý của hệ thống._
 
 ## 🎬 Video Demo
 
-Để có cái nhìn trực quan hơn về cách sản phẩm hoạt động, mời bạn xem video demo dưới đây:
+Để có cái nhìn trực quan hơn về cách sản phẩm hoạt động, mời bạn xem video demo của chúng tôi qua link dưới đây:
 
-[![Xem Demo Sản Phẩm](https://img.youtube.com/vi/[ID_VIDEO_YOUTUBE]/0.jpg)]([LINK_VIDEO_DEMO])
-_Nhấn vào hình để xem video demo trên GGDriver!_
+**[➡️ Xem Video Demo trên Google Drive](https://drive.google.com/file/d/1ymjLAYi3exukpWBJ-ppfKQA7SNAMkmQ6/view?usp=sharing)**
 
 ## ⚙️ Nguyên lý hoạt động
 
